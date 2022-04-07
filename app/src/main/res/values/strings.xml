@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab09-Graphs-393-Gavrilov</string>
+    <string name="app_creator">393-Gavrilov</string>
+    <string name="txt_CountDots">Count dots:</string>
+    <string name="txt_xmin">X min:</string>
+    <string name="txt_xmax">X max:</string>
+    <string name="btn_Save">Save</string>
+    <string name="btn_Back">Back</string>
+    <string name="btn_Setting">Setting</string>
+    <string name="btn_OtherFunction">Other function</string>
+    <string name="itemsFunction">Functions</string>
+</resources>
+
